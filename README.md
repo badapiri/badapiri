@@ -2,3 +2,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badapiri&show_icons=true&theme=radical)
 
+![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=Fackbook&logoColor=White)

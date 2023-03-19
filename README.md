@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder)
+![header](https://capsule-render.vercel.app/api?type=Transparent&text=WELCOME)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbadapiri&count_bg=%23010101&title_bg=%237C7A7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -14,4 +14,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### MY SNS 📷
+<a href=https://www.facebook.com/profile.php?id=100015477844487 target="_blank"><img src="https://img.shields.io/badge/badapiri-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href=https://www.facebook.com/profile.php?id=100015477844487 target="_blank"><img src="https://img.shields.io/badge/badapiri-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>

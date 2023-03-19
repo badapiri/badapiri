@@ -12,4 +12,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### MY SNS 📷
-<a href=https://www.facebook.com/profile.php?id=100015477844487 target="_blank"img src="https://img.shields.io/badge/badapiri-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href=https://www.facebook.com/profile.php?id=100015477844487 target="_blank"><img src="https://img.shields.io/badge/badapiri-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>

@@ -2,6 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=badapiri1004)](https://solved.ac/badapiri1004/)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badapiri&show_icons=true&theme=radical)
 # 💪Skills
+### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)

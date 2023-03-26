@@ -15,7 +15,7 @@
 
 # Information
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badapiri&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badapiri&layout=compact)](https://github.com/badapiri/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badapiri&layout=compact &theme=onedark)
 # 🛠Skills🛠
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)

@@ -28,7 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badapiri&layout=compact&theme=tokyonight)
 
 # 🛠Skills🛠<br>
-### Platforms & Languages
+### Platforms & Languages🌐
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-0B4984.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 

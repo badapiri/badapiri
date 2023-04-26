@@ -22,7 +22,7 @@
 <h4> 저는 주로 python를 공부하고 있고 실력을 기르기 위해서 코딩 공부를 하고있습니다!</h4>
 <h4> 모든 열심히 성실한 자세로 임하도록 하겠습니다.</h4>
 
-# Information<br>
+# 💻Information💾<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badapiri&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badapiri&layout=compact&theme=tokyonight)
 # 🛠Skills🛠<br>

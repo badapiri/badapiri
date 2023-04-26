@@ -18,8 +18,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=badapiri1004)](https://solved.ac/badapiri1004/)
 
 # 자기소개<br>
-### 저는 성일정보고등학교에 재학중인 양현욱이라고 합니다.
-
+<h4> 저는 성일정보고등학교에 소프트웨어개발과를 다니고 있는 양현욱이라고 합니다.</h4>
+<h4> 저는 주로 python를 공부하고 있고 실력을 기르기 위해서 코딩 공부를 하고있습니다!</h4>
+<h4> 모든 열심히 성실한 자세로 임하도록 하겠습니다.</h4>
 
 # Information<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badapiri&show_icons=true&theme=radical)

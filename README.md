@@ -42,3 +42,4 @@
  
 ### Notion <br>
 <a href="https://www.notion.so/HELLO-7298a232e79847439430da420b6b862b" target="_blank src="https://img.shields.io/badge/양현욱-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.notion.so/HELLO-7298a232e79847439430da420b6b862b" target="_blank"><img src="https://img.shields.io/badge/양현욱-000000?style=뱃지모양&logo=flat-square&logoColor=black"/></a>

@@ -41,4 +41,4 @@
 <a href="https://www.instagram.com/badapiri50/" target="_blank"><img src="https://img.shields.io/badge/@badapiri50-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
  
 ### Notion 📄 <br>
-ㅣ <a href="https://www.notion.so/HELLO-7298a232e79847439430da420b6b862b" target="_blank"><img src="https://img.shields.io/badge/양현욱-FFFFFF?style=flat-square&logo=notion&logoColor=black"/></a> ㅣ
+[ <a href="https://www.notion.so/HELLO-7298a232e79847439430da420b6b862b" target="_blank"><img src="https://img.shields.io/badge/양현욱-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"/></a> ]
